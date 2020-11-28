@@ -3,7 +3,7 @@ Le but de ce projet est de réaliser un minishell via la programmation système 
 
 <ul>
   <li><h5>Réalisations</h5>
-    <ol start=1>
+    <ol start="1">
       <li><b>commande simple :</b> Utilisation des entrées stockées dans le champs seq de la structure cmdline
       </li>
       <li><b>rédirections entrée/sortie:</b>Remplacements des E/S standards par les descripteurs de fichier cibles
